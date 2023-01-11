@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>org.primefaces</groupId>
+        <groupId>br.com.avantedev</groupId>
         <artifactId>primefaces-selenium</artifactId>
         <version>12.0.0-custom+1</version>
         <relativePath>../pom.xml</relativePath>
